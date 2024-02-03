@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on MediaServer
 - 🌱 I’m currently learning React, Laravel, Figma and PostgreSQL
-- ⚡ I'm currently planning StopTrac, a high performance transit application for my daily commute
+- ⚡ I'm currently planning StopTrac
 
 
 <img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
